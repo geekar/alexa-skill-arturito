@@ -1,0 +1,56 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "robot arturito",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "explícame como funciona",
+            "como va esto",
+            "que he de hacer",
+            "como funciona",
+            "ayuda "
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayAudioIntent",
+          "slots": [],
+          "samples": [
+            "Que tal estas",
+            "dime como estas",
+            "como estas hoy",
+            "Buenos dias",
+            "como estas pequeño cabezudo",
+            "di algo",
+            "hola robot",
+            "hola",
+            "di hola"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "25"
+}
